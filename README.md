@@ -35,9 +35,17 @@ git checkout BranchName
 
 git merge BranchName
 
+#if there are file that needed to be added. use git add
 
+git add File/Folder
 
-#When commit will display 
+#Commit the changes
+
+git add commit -m "commit changes"
+
+git push
+
+#When in the message 
 
 #Press insert and insert message
 
