@@ -38,7 +38,10 @@ git merge BranchName
 
 
 #When commit will display 
-press insert and insert message
-to go back 
+
+#Press insert and insert message
+
+#To go back  type
+
 :qw
 
