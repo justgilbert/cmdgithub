@@ -31,6 +31,11 @@ git branch BranchName
 
 git checkout BranchName
 
+#Remote 
+git checkout -b feature_branch_name
+#Push
+git push -u origin feature_branch_name
+
 #Merge branches
 
 git merge BranchName
